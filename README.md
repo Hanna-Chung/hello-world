@@ -2,5 +2,4 @@
 
 Hi all,
 
-I've just singed in here. 
-Just Following the instruction at the moment.
+I've singed in GitHub and just Following the instruction at the moment.
